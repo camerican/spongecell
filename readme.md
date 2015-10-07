@@ -5,7 +5,7 @@ This is an example project using **Angular.js** to allow for dynamic filtering o
 ## Files
 
 | File | Purpose |
-| -- | -- |
+| ---- | ---- |
 | index.html | Directory Page |
 | main.js | Angular JS Code |
 | data.json | The source data for the employee directory |
