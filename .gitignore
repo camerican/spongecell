@@ -1,0 +1,6 @@
+#ignore source data
+data/*
+#ignore backup files
+*.bkp*
+#ignore ruby processing files
+*.rb
